@@ -1,0 +1,14 @@
+.calculator {
+    /* margin: auto; */
+    padding-top: 1em;
+}
+
+.button {
+    width: 50px;
+    height: 45px;
+    /* margin: 2px; */
+}
+
+.title {
+    text-align: center;
+}
